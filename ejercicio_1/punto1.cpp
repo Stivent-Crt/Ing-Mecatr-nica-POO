@@ -10,7 +10,7 @@ int main() {
     cout << "--NOTA FINAL DEL ESTUDIANTE--" << endl << endl;
 
     
-    cout << "1) Ingrese la nota final (0 a 10): ";
+    cout << "1) Ingrese la nota final (0 a 100): ";
     cin >> nota;
     cout << "2) Ingrese el porcentaje de asistencia (0 a 100): ";
     cin >> asistencia;
